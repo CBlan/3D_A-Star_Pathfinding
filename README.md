@@ -14,3 +14,5 @@ __Features:__
 - Smoothed Pathing.
 - Weight blurring to stop wall hugging.
 - Heap optimised and threaded.
+
+_For setup tips and a guide on how to use it visit the Wiki tab._
