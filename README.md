@@ -1,4 +1,4 @@
-# 3D_A-Star_Pathfinding
+# 3D A* Pathfinding
 
 <p align="center"> <img width="569" height="569" src="https://github.com/CBlan/3D_A-Star_Pathfinding/blob/master/ExampleImages/AStarGif.gif"> </p>
 
