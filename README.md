@@ -1,10 +1,10 @@
-# 3D A* Pathfinding
+# 3D A* Pathfinding for Unity
 
 <p align="center"> <img width="569" height="569" src="https://github.com/CBlan/3D_A-Star_Pathfinding/blob/master/ExampleImages/AStarGif.gif"> </p>
 
 __3d pathfinding solution using A* algorithim__
 
-This Pathfinding solution was created for use with flying/floating units. I created this as unity's inbuilt navigation system deals only with navigation on 2D planes.
+This Pathfinding solution was created for use with flying/floating units in Unity. I created this as Unity's inbuilt navigation system deals only with navigation on 2D planes.
 
 _Please feel free to expand on it, any improvments are appreciated._
 
